@@ -21,7 +21,6 @@ if(user._id){  //前面肯定登录过t
 }
 
 
-ReactDOM.render(<App/>,
-   
-  document.getElementById('root')
-)
+ReactDOM.render(<App/>, document.getElementById('root'))
+
+
